@@ -1,5 +1,7 @@
 # SEVRION
-Introducing #Sevrion by #ResearchSec — a prototype Disaster Recovery & Protection dashboard built to keep an eye on the ground when it matters most.
+Introducing *Sevrion* by **ResearchSec** — a prototype Disaster Recovery & Protection dashboard built to keep an eye on the ground when it matters most.
+
+![Picture](https://github.com/naemazam/SEVRION/blob/main/ss.png)
 
 ⚡ Hyper-Fast Refresh: Updates every 2 seconds. No lag, just data.
 
